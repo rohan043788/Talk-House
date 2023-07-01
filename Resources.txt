@@ -1,0 +1,44 @@
+Resources for MERN CHAT APPLICATION
+freepik.com
+
+User Accounts Created
+1) 
+email-rohan@example.com
+password-123456
+
+2)
+email-sam@test.com
+password-sameer
+
+3)
+email-raghav@gmail.com
+password-rag123
+
+4) 
+email - navin@yahoo.com
+password - navshetty
+
+5)
+email - pran123@gmail.com
+password - pran
+
+6)
+email - viks@yahoo.com
+password - vikram
+
+7)
+email - neel123@test.com
+password - neel123
+
+8)
+email - als@gmail.com
+password - alster
+
+9)
+email - niks@yahoo.com
+password - nikita
+
+10)
+email - daniel@yahoo.com
+password - daniel123
+    
